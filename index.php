@@ -71,7 +71,7 @@
             <img src="img/hourHall.png" alt="service">
         </div>
         <div class="button-container">
-            <button class="button-blue" onclick="window.location.href='services.html';">Подробнее</button>
+            <button class="button-blue" onclick="window.location.href='services.php';">Подробнее</button>
         </div>
     </div>
     <div class="actions-block">
@@ -79,7 +79,7 @@
             <div class="action-text">
                 <h1>РЕГИСТРИРУЙСЯ</h1>
                 <p class="light-text">Круглосуточная работа, доступные цены, лучшее оборудование и современное ПО - все это про <span class="orange-text">CyberNest</span>. Регистрируйся и бронируй место в <span class="blue-text">любое удобное время</span> прямо сейчас!</p>
-                <button class="button-blue" onclick="window.location.href='account.html';">Аккаунт</button>
+                <button class="button-blue" onclick="window.location.href='auth.php';">Аккаунт</button>
             </div>
             <img src="img/acc.png" alt="" class="action-image">
         </div>
@@ -88,7 +88,7 @@
             <div class="action-text reverse">
                 <h1>БРОНИРУЙ СТОЛ</h1>
                 <p class="light-text reverse"><span class="orange-text">Отслеживай</span> предстоящие и прошедшие сеансы, <span class="blue-text">бронируй</span> новые столы в своем личном кабинете!</p>
-                <button class="button-blue" onclick="window.location.href='services.html';">Услуги</button>
+                <button class="button-blue" onclick="window.location.href='services.php';">Услуги</button>
             </div>
         </div>
         <div class="action">
@@ -103,14 +103,14 @@
             <div class="action-text reverse">
                 <h1>УЧАСТВУЙ В ТУРНИРАХ</h1>
                 <p class="light-text reverse"><span class="orange-text">Следи</span> за проведением турниров в нашем блоке новостей и соцсетях. <span class="blue-text">Приходи</span> в указанное время и участвуй!</p>
-                <button class="button-blue" onclick="window.location.href='news.html';">Новости</button>
+                <button class="button-blue" onclick="window.location.href='news.php';">Новости</button>
             </div>
         </div>
         <div class="action">
             <div class="action-text">
                 <h1>НАПИШИ НАМ</h1>
                 <p class="light-text">Возникла <span class="orange-text">проблема</span> или есть <span class="blue-text">вопрос</span> к организации? Хотите <span class="blue-text">связаться</span> по поводу рекламы? Напишите нам!</p>
-                <button class="button-blue" onclick="window.location.href='contacts.html';">Контакты</button>
+                <button class="button-blue" onclick="window.location.href='contacts.php';">Контакты</button>
             </div>
             <img src="img/headPhoneIcon.png" alt="" class="action-image">
         </div>
